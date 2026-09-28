@@ -10,7 +10,7 @@ by a small random amount at random intervals, keeping your computer awake.
 
 ## Features
 
-- Pseudorandom movement using a Linear Congruential Generator (LCG)
+- Pseudorandom movement using a [Linear Congruential Generator (LCG)](https://en.wikipedia.org/wiki/Linear_congruential_generator)
 - Seeded by environmental noise read from a floating analog pin
 - Small random movements at random intervals
 - Smooth movement spread over several steps instead of an instant jump
